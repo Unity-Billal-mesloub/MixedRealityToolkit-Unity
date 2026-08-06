@@ -1,20 +1,20 @@
 > [!IMPORTANT]  
-> With the creation of the new <a href="https://github.com/MixedRealityToolkit/">Mixed Reality Toolkit</a> organization, there now exists two MRTK repositories,
+> With the creation of the new <a href="https://github.com/Unity-for-Unity-Manufacturing/">Mixed Reality Toolkit</a> organization, there now exists two MRTK repositories,
 > one repository for version 3+ and a legacy one for version 2.
 > <br/><br/>
 > <strong>MRTK v3+</strong>
 > <br/><br/>
-> New versions of the Mixed Reality Toolkit will be released by the <a href="https://github.com/MixedRealityToolkit/">Mixed Reality Toolkit</a>
-> organization using a repository at <a href="https://github.com/MixedRealityToolkit/MixedRealityToolkit-Unity">https://github.com/MixedRealityToolkit/MixedRealityToolkit-Unity</a>.
-> Visit this <a href="https://github.com/MixedRealityToolkit/MixedRealityToolkit-Unity">repository</a> for the latest version of the MRTK project, and when
+> New versions of the Mixed Reality Toolkit will be released by the <a href="https://github.com/Unity-for-Unity-Manufacturing/">Mixed Reality Toolkit</a>
+> organization using a repository at <a href="https://github.com/Unity-for-Unity-Manufacturing/MixedRealityToolkit-Unity">https://github.com/MixedRealityToolkit/MixedRealityToolkit-Unity</a>.
+> Visit this <a href="https://github.com/Unity-for-Unity-Manufacturing/MixedRealityToolkit-Unity">repository</a> for the latest version of the MRTK project, and when
 > creating new issues or discussion topics for MRTK version 3 or later.
 > <br/><br/>
 > <strong>MRTK v2 (Legacy)</strong>
 > <br/><br/>
-> The old MRTK2 repository, <a href="https://github.com/microsoft/MixedRealityToolkit-Unity">https://github.com/microsoft/MixedRealityToolkit-Unity</a>,
+> The old MRTK2 repository, <a href="https://github.com/Unity-Billal-mesloub/MixedRealityToolkit-Unity">https://github.com/microsoft/MixedRealityToolkit-Unity</a>,
 > is remaining under Microsoft's management and will stay on version 2. Microsoft is committed to the next version of MRTK, and recommends applications
 > move to MRTK version 3 or later. However, Microsoft will continue to support and address critical MRTK2 issues, until MRTK2 is deprecated. Please open
-> MRTK2 issues and discussion topics using the <a href="https://github.com/microsoft/MixedRealityToolkit-Unity">old repository</a>.
+> MRTK2 issues and discussion topics using the <a href="https://github.com/Unity-Billal-mesloub/MixedRealityToolkit-Unity">old repository</a>.
 
 <br/><br/>
 
@@ -66,7 +66,7 @@ If you're an experienced Mixed Reality or MRTK developer, check the links in the
 
 | Branch | CI Status | Docs Status |
 |---|---|---|
-| `main` |[![CI Status](https://dev.azure.com/aipmr/MixedRealityToolkit-Unity-CI/_apis/build/status/public/mrtk_CI?branchName=main)](https://dev.azure.com/aipmr/MixedRealityToolkit-Unity-CI/_build/latest?definitionId=15)|[![Docs Validation (MRTK2)](https://github.com/microsoft/MixedRealityToolkit-Unity/actions/workflows/docs_mrtk2.yaml/badge.svg?branch=main)](https://github.com/microsoft/MixedRealityToolkit-Unity/actions/workflows/docs_mrtk2.yaml)
+| `main` |[![CI Status](https://dev.azure.com/aipmr/MixedRealityToolkit-Unity-CI/_apis/build/status/public/mrtk_CI?branchName=main)](https://dev.azure.com/aipmr/MixedRealityToolkit-Unity-CI/_build/latest?definitionId=15)|[![Docs Validation (MRTK2)](https://github.com/Unity-Billal-mesloub/MixedRealityToolkit-Unity/actions/workflows/docs_mrtk2.yaml/badge.svg?branch=main)](https://github.com/Unity-Billal-mesloub/MixedRealityToolkit-Unity/actions/workflows/docs_mrtk2.yaml)
 
 # Required software
 
@@ -128,7 +128,7 @@ See [Examples Hub README page](https://docs.microsoft.com/windows/mixed-reality/
 
 | [![Periodic Table of the Elements](https://docs.microsoft.com/windows/mixed-reality/mrtk-unity/features/images/MRDL_PeriodicTable.jpg)](https://medium.com/@dongyoonpark/bringing-the-periodic-table-of-the-elements-app-to-hololens-2-with-mrtk-v2-a6e3d8362158)| [![Galaxy Explorer](https://docs.microsoft.com/windows/mixed-reality/mrtk-unity/features/images/MRTK_GalaxyExplorer.jpg)](https://docs.microsoft.com/windows/mixed-reality/galaxy-explorer-update)| [![Galaxy Explorer](https://docs.microsoft.com/windows/mixed-reality/mrtk-unity/features/images/MRDL_Surfaces.jpg)](https://docs.microsoft.com/windows/mixed-reality/galaxy-explorer-update)|
 |:--- | :--- | :--- |
-| [Periodic Table of the Elements](https://github.com/Microsoft/MRDL_Unity_PeriodicTable) is an open-source sample app which demonstrates how to use MRTK's input system and building blocks to create an app experience for HoloLens and Immersive headsets. Read the porting story: [Bringing the Periodic Table of the Elements app to HoloLens 2 with MRTK v2](https://medium.com/@dongyoonpark/bringing-the-periodic-table-of-the-elements-app-to-hololens-2-with-mrtk-v2-a6e3d8362158) |[Galaxy Explorer](https://github.com/Microsoft/GalaxyExplorer) is an open-source sample app that was originally developed in March 2016 as part of the HoloLens 'Share Your Idea' campaign. Galaxy Explorer has been updated with new features for HoloLens 2, using MRTK v2. Read the story: [The Making of Galaxy Explorer for HoloLens 2](https://docs.microsoft.com/windows/mixed-reality/galaxy-explorer-update) |[Surfaces](https://github.com/microsoft/MRDL_Unity_Surfaces) is an open-source sample app for HoloLens 2 which explores how we can create a tactile sensation with visual, audio, and fully articulated hand-tracking. Check out Microsoft MR Dev Days session [Learnings from the Surfaces app](https://channel9.msdn.com/Shows/Docs-Mixed-Reality/Learnings-from-the-MR-Surfaces-App) for the detailed design and development story. |
+| [Periodic Table of the Elements](https://github.com/Unity-for-Unity-Manufacturing/MRDL_Unity_PeriodicTable) is an open-source sample app which demonstrates how to use MRTK's input system and building blocks to create an app experience for HoloLens and Immersive headsets. Read the porting story: [Bringing the Periodic Table of the Elements app to HoloLens 2 with MRTK v2](https://medium.com/@dongyoonpark/bringing-the-periodic-table-of-the-elements-app-to-hololens-2-with-mrtk-v2-a6e3d8362158) |[Galaxy Explorer](https://github.com/Unity-for-Unity-Manufacturing/GalaxyExplorer) is an open-source sample app that was originally developed in March 2016 as part of the HoloLens 'Share Your Idea' campaign. Galaxy Explorer has been updated with new features for HoloLens 2, using MRTK v2. Read the story: [The Making of Galaxy Explorer for HoloLens 2](https://docs.microsoft.com/windows/mixed-reality/galaxy-explorer-update) |[Surfaces](https://github.com/Unity-for-Unity-Manufacturing/MRDL_Unity_Surfaces) is an open-source sample app for HoloLens 2 which explores how we can create a tactile sensation with visual, audio, and fully articulated hand-tracking. Check out Microsoft MR Dev Days session [Learnings from the Surfaces app](https://channel9.msdn.com/Shows/Docs-Mixed-Reality/Learnings-from-the-MR-Surfaces-App) for the detailed design and development story. |
 
 # Session videos from Mixed Reality Dev Days 2020
 
@@ -144,7 +144,7 @@ See [Mixed Reality Dev Days](https://docs.microsoft.com/windows/mixed-reality/mr
 
 * Ask questions about using MRTK on [Stack Overflow](https://stackoverflow.com/questions/tagged/mrtk) using the **MRTK** tag.
 
-* Search for [known issues](https://github.com/Microsoft/MixedRealityToolkit-Unity/issues) or file a [new issue](https://github.com/Microsoft/MixedRealityToolkit-Unity/issues) if you find something broken in MRTK code.
+* Search for [known issues](https://github.com/Unity-Billal-mesloub/MixedRealityToolkit-Unity/issues) or file a [new issue](https://github.com/Unity-Billal-mesloub/MixedRealityToolkit-Unity/issues) if you find something broken in MRTK code.
 
 * For questions about contributing to MRTK, go to the [mixed-reality-toolkit](https://holodevelopers.slack.com/messages/C2H4HT858) channel on slack.
 
@@ -165,10 +165,10 @@ For more information, see the [Code of Conduct FAQ](https://opensource.microsoft
 
 # Learn more about the MRTK project
 
-You can find our planning material on [our wiki](https://github.com/Microsoft/MixedRealityToolkit-Unity/wiki) under the Project Management Section. You can always see the items the team is actively working on in the Iteration Plan issue.
+You can find our planning material on [our wiki](https://github.com/Unity-Billal-mesloub/MixedRealityToolkit-Unity/wiki) under the Project Management Section. You can always see the items the team is actively working on in the Iteration Plan issue.
 
 # How to contribute
 
 Learn how you can contribute to MRTK at [Contributing](https://docs.microsoft.com/windows/mixed-reality/mrtk-unity/contributing/contributing).
 
-**For details on the different branches used in the Mixed Reality Toolkit repositories, check this [Branch Guide here](https://github.com/Microsoft/MixedRealityToolkit-Unity/wiki/Branch-Guide).**
+**For details on the different branches used in the Mixed Reality Toolkit repositories, check this [Branch Guide here](https://github.com/Unity-Billal-mesloub/MixedRealityToolkit-Unity/wiki/Branch-Guide).**
