@@ -5,13 +5,13 @@
 > <strong>MRTK v3+</strong>
 > <br/><br/>
 > New versions of the Mixed Reality Toolkit will be released by the <a href="https://github.com/Unity-for-Unity-Manufacturing/">Mixed Reality Toolkit</a>
-> organization using a repository at <a href="https://github.com/Unity-for-Unity-Manufacturing/MixedRealityToolkit-Unity">https://github.com/MixedRealityToolkit/MixedRealityToolkit-Unity</a>.
+> organization using a repository at <a href="https://github.com/Unity-for-Unity-Manufacturing/MixedRealityToolkit-Unity">https://github.com/Unity-for-Unity-Manufacturing/MixedRealityToolkit-Unity</a>.
 > Visit this <a href="https://github.com/Unity-for-Unity-Manufacturing/MixedRealityToolkit-Unity">repository</a> for the latest version of the MRTK project, and when
 > creating new issues or discussion topics for MRTK version 3 or later.
 > <br/><br/>
 > <strong>MRTK v2 (Legacy)</strong>
 > <br/><br/>
-> The old MRTK2 repository, <a href="https://github.com/Unity-Billal-mesloub/MixedRealityToolkit-Unity">https://github.com/microsoft/MixedRealityToolkit-Unity</a>,
+> The old MRTK2 repository, <a href="https://github.com/Unity-Billal-mesloub/MixedRealityToolkit-Unity">https://github.com/Unity-Billal-mesloub/MixedRealityToolkit-Unity</a>,
 > is remaining under Microsoft's management and will stay on version 2. Microsoft is committed to the next version of MRTK, and recommends applications
 > move to MRTK version 3 or later. However, Microsoft will continue to support and address critical MRTK2 issues, until MRTK2 is deprecated. Please open
 > MRTK2 issues and discussion topics using the <a href="https://github.com/Unity-Billal-mesloub/MixedRealityToolkit-Unity">old repository</a>.
